@@ -1,7 +1,8 @@
 # php-oauth-generator
 
-Author: Thomas Hunter II
-Source: https://thomashunter.name/blog/generate-oauth-consumer-key-and-shared-secrets-using-php/
+**Author:** Thomas Hunter II
+
+**Source:** https://thomashunter.name/blog/generate-oauth-consumer-key-and-shared-secrets-using-php/
 
 ```php
 function gen_oauth_creds() {
